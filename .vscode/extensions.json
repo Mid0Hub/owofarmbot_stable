@@ -1,19 +1,19 @@
 {
-    "recommendations": [
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "drknoxy.eslint-disable-snippets",
-        "ms-python.black-formatter",
-        "aaron-bond.better-comments",
-        "ionutvmi.path-autocomplete",
-        "eamodio.gitlens",
-        "usernamehw.errorlens",
-        "pflannery.vscode-versionlens",
-        "kricsleo.vscode-package-json-inspector",
-        "chadonsom.auto-view-readme",
-        "donjayamanne.githistory",
-        "mhutchie.git-graph",
-        "github.vscode-github-actions",
-        "pkief.material-icon-theme"
-    ]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "drknoxy.eslint-disable-snippets",
+    "ms-python.black-formatter",
+    "aaron-bond.better-comments",
+    "ionutvmi.path-autocomplete",
+    "eamodio.gitlens",
+    "usernamehw.errorlens",
+    "legalfina.npm-version-lens",
+    "kricsleo.vscode-package-json-inspector",
+    "chadonsom.auto-view-readme",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "github.vscode-github-actions",
+    "pkief.material-icon-theme"
+  ]
 }
